@@ -2,7 +2,7 @@
 # 👋 Hola, soy Joaquín Astudillo
 
 🎓 Ingeniero en Electrónica y Automatización  
-📊 Apasionado por el Análisis de Datos y la Programación  
+📊 Apasionado por el Análisis de Datos y la Programación 
 ⚡ Interesado en Inteligencia Artificial, Automatización Industrial e Industria 4.0  
 
 ---
@@ -29,5 +29,5 @@
 
 ## 📫 Contacto
 
-- LinkedIn: (poner link)
-- Email: (poner email)
+- LinkedIn: https://www.linkedin.com/in/joaquin-astudillo-paredes-313606286/
+- Email: joaquinastudillop2@gmail.com
