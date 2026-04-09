@@ -2,8 +2,9 @@
 # 👋 Hola, soy Joaquín Astudillo
 
 🎓 Ingeniero en Electrónica y Automatización  
-📊 Trabajo actualmente en Análisis de Datos y Programación en varios Lenguajes 
-⚡ Interesado en Programacion, Inteligencia Artificial, Automatización Industrial, Industria 4.0 y Electronica  
+📊 Trabajo actualmente en Análisis de Datos y Programación en varios Lenguajes
+⚡ Interesado en Programacion, Inteligencia Artificial, Automatización Industrial, 
+    Industria 4.0 y Electronica  
 
 ---
 
@@ -21,9 +22,9 @@ Habilidades competitivas:
 
 ---
 
-## 📈 Actualmente aprendiendo
+## 📈 Cursos y Diplomados 
 
-- Gobernanza de datos en la USFQ 🐉
+- Gobernanza de datos en la USFQ 🐉 (Actualmente)
 - Data Science en la Universidad de los Hemisferios 🌍
 - Inteligencia Artificial en la Universidad de Salamanca 🛡️
 - Transformacion Digital para empresas Universidad de los Hemisferios 🌍 
