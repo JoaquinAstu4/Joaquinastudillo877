@@ -1,13 +1,15 @@
-# Joaquinastudillo877
+# JOAQUIN ASTUDILLO
 # 👋 Hola, soy Joaquín Astudillo
 
 🎓 Ingeniero en Electrónica y Automatización  
-📊 Apasionado por el Análisis de Datos y la Programación 
-⚡ Interesado en Inteligencia Artificial, Automatización Industrial e Industria 4.0  
+📊 Trabajo actualmente en Análisis de Datos y Programación en varios Lenguajes 
+⚡ Interesado en Programacion, Inteligencia Artificial, Automatización Industrial, Industria 4.0 y Electronica  
 
 ---
 
 ## 🚀 Tecnologías y herramientas
+
+Habilidades competitivas:
 
 - Python
 - SQL
@@ -21,9 +23,10 @@
 
 ## 📈 Actualmente aprendiendo
 
-- Data Science
-- Inteligencia Artificial
-- Visualización de datos avanzada
+- Gobernanza de datos en la USFQ 🐉
+- Data Science en la Universidad de los Hemisferios 🌍
+- Inteligencia Artificial en la Universidad de Salamanca 🛡️
+- Transformacion Digital para empresas Universidad de los Hemisferios 🌍 
 
 ---
 
