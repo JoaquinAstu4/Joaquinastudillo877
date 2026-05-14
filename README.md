@@ -1,5 +1,5 @@
 # JOAQUIN ASTUDILLO
-# 👋 Hola, soy Joaquín Astudillo
+# 👋 Hola, soy Ingeniero Electrónico y Programador 
 
 🎓 Ingeniero en Electrónica y Automatización  
 📊 Trabajo actualmente en Análisis de Datos y Programación en varios Lenguajes
